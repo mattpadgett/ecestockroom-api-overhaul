@@ -1,6 +1,6 @@
 ﻿namespace ecestockroom_api_v2.Contracts.Configuration;
 
-public interface IJwt
+public interface IJwtSettings
 {
     string Issuer { get; set; }
     string Audience { get; set; }

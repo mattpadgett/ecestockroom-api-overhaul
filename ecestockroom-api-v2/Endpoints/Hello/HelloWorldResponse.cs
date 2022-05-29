@@ -2,5 +2,5 @@
 
 public class HelloWorldResponse
 {
-    
+    public string Message { get; set; }
 }

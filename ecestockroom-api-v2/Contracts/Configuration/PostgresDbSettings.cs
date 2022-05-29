@@ -3,5 +3,4 @@
 public class PostgresDbSettings : IPostgresDbSettings
 {
     public string ConnectionString { get; set; }
-    public string DatabaseName { get; set; }
 }
