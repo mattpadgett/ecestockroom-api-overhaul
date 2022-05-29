@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecestockroom-api-v2", "ecestockroom-api-v2\ecestockroom-api-v2.csproj", "{4936E2AA-57ED-44B2-A8E9-4A3FEE11CF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4936E2AA-57ED-44B2-A8E9-4A3FEE11CF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4936E2AA-57ED-44B2-A8E9-4A3FEE11CF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4936E2AA-57ED-44B2-A8E9-4A3FEE11CF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4936E2AA-57ED-44B2-A8E9-4A3FEE11CF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
